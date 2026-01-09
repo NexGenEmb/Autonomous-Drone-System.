@@ -1,3 +1,5 @@
+# Auto-Brake Drone System | Personal Embedded Systems Project
+
 Technologies: ATmega328P, Embedded C, RF Communication, MATLAB, Power Electronics
 
 Designed and built a custom RF-controlled drone using an ATmega328P microcontroller, programmed in C, with real-time telemetry and Xbox controller input.
