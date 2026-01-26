@@ -10,4 +10,4 @@ Optimized RF communication protocols and onboard power management, extending eff
 
 Validated control algorithms and system behavior using MATLAB-based signal analysis and simulations.
 
-👉 This project clearly communicates embedded control, safety engineering, and system optimization.
+Milestone to autonomous flight.
